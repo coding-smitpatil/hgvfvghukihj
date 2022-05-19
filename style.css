@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    background-color: chartreuse;
+    font-size: large;
+}
+
+canvas{
+    border: 1px solid goldenrod;
+}
